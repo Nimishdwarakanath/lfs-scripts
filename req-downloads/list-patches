@@ -1,0 +1,21 @@
+• Bash Upstream Fixes Patch - 17 KB:
+Download: http://www.linuxfromscratch.org/patches/lfs/8.0/bash-4.4-upstream_fixes-1.patch
+MD5 sum: e3d5bf23a4e5628680893d46e6ff286e
+• Bc Memory Leak Patch - 1.4 KB:
+Download: http://www.linuxfromscratch.org/patches/lfs/8.0/bc-1.06.95-memory_leak-1.patch
+MD5 sum: 877e81fba316fe487ec23501059d54b8
+• Bzip2 Documentation Patch - 1.6 KB:
+Download: http://www.linuxfromscratch.org/patches/lfs/8.0/bzip2-1.0.6-install_docs-1.patch
+MD5 sum: 6a5ac7e89b791aae556de0f745916f7f
+• Coreutils Internationalization Fixes Patch - 168 KB:
+Download: http://www.linuxfromscratch.org/patches/lfs/8.0/coreutils-8.26-i18n-1.patch
+MD5 sum: e1f87b10b23d66344e5e99e7fabfa7a2
+• Glibc FHS Patch - 2.8 KB:
+Download: http://www.linuxfromscratch.org/patches/lfs/8.0/glibc-2.25-fhs-1.patch
+MD5 sum: 9a5997c3452909b1769918c759eff8a2
+• Kbd Backspace/Delete Fix Patch - 12 KB:
+Download: http://www.linuxfromscratch.org/patches/lfs/8.0/kbd-2.0.4-backspace-1.patch
+MD5 sum: f75cca16a38da6caa7d52151f7136895
+• Sysvinit Consolidated Patch - 3.9 KB:
+Download: http://www.linuxfromscratch.org/patches/lfs/8.0/sysvinit-2.88dsf-consolidated-1.patch
+MD5 sum: 0b7b5ea568a878fdcc4057b2bf36e5cb
